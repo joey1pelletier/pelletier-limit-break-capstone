@@ -29,7 +29,8 @@ Because I have not worked on the project over break, I learned that working over
 This progress mark will be the deadline (January 28th) for the following items:
 
 - Entire Figma UI mock-up of Limit Break will be completed, and ready to be user-tested and critiqued
-- Sufficient knowledge and practice of React.js and Next.js will be gained, that way project development can start smoothly
+- Sufficient knowledge and practice of React.js and Next.js will be gained, that way project development can start smoothly.
+    - https://www.youtube.com/watch?v=x4rFhThSX04 will be the main learning resource.
 
 ### 50% Project Complete Mark
 
@@ -49,6 +50,8 @@ This progress mark will be the deadline for the following items:
 
 This progress mark will be the deadline for the following items:
 - Final bug fixes and touches are applied to the project, and will be ready for Expo.
+
+
 
 
 
