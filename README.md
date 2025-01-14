@@ -22,6 +22,37 @@ Other than applying RMPP panel feedback (required to pass RMPP) to my project co
 
 Because I have not worked on the project over break, I learned that working over break would've made the capstone sequence less stressful and time-consuming. Therefore, I will need to prioritize more time towards working on my project this semester.
 
+## Project Milestones
+
+### 30% Project Complete Mark
+
+This progress mark will be the deadline (January 28th) for the following items:
+
+- Entire Figma UI mock-up of Limit Break will be completed, and ready to be user-tested and critiqued
+- Sufficient knowledge and practice of React.js and Next.js will be gained, that way project development can start smoothly
+
+### 50% Project Complete Mark
+
+This progress mark will be the deadline for the following items:
+- Feedback from user-testing and critique will be applied to the UI of Limit Break.
+- Fear-conquering part of Limit Break (the part circled on the diagram photo below) will be fully developed with React.js (front-end UI) and Next.js (database of user info and input). 
+
+![User Diagram of Limit Break with circle showcasing progress mark](img/app-diagram.png)
+
+### 90% Project Complete Mark
+
+This progress mark will be the deadline for the following items:
+- All app components will be fully developed, and ready for final user-testing and critique.
+- Final user-testing and critique will make room for bug fixes and final touches.
+
+### 100% Project Complete Mark
+
+This progress mark will be the deadline for the following items:
+- Final bug fixes and touches are applied to the project, and will be ready for Expo.
+
+
+
+
 
 
 
