@@ -20,7 +20,7 @@ Other than applying RMPP panel feedback (required to pass RMPP) to my project co
 
 ### Learned Lessons
 
-Because I have not worked on the project over break, I learned that working over break would've made the capstone sequence less stressful and time-consuming. Therefore, I will need to prioritize more time towards working on my project.
+Because I have not worked on the project over break, I learned that working over break would've made the capstone sequence less stressful and time-consuming. Therefore, I will need to prioritize more time towards working on my project this semester.
 
 
 
