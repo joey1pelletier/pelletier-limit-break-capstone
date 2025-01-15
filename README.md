@@ -51,6 +51,14 @@ This progress mark will be the deadline for the following items:
 This progress mark will be the deadline for the following items:
 - Final bug fixes and touches are applied to the project, and will be ready for Expo.
 
+## Week 1 Goals
+
+These are the goals that should be completed by next week:
+- Using feedback from the ATLS 4630 prototype of Limit Break, create a Figma mockup that shows the UI and functionality of the circled part of the diagram from the picture above. 
+    -   Be sure to let users test out the process of doing the process above. Do they understand what the app is telling them to do? What are the difficulties that users will run into? Use feedback for re-iterations.
+- Keep following the React tutorial, and if possible, add the learned techniques to the overall project. Think of how this can be added to the project functionality.
+- Start learning how to add databases with Next.js.
+
 
 
 
