@@ -85,6 +85,42 @@ I integrated feedback by doing a re-iteration of the app's design, after not fee
 
 I learned that it will take more time to complete a full Figma prototype, so a lot of my time until the 28th will need to be focused on that.
 
+## Week 2 Goals
+- These are the goals that should be completed by next week:
+    - Complete the entire UI in Figma. As you complete certain parts, perform user testing on those things. Avoid trying to be a perfectionist on this. When in doubt, just go straight into testing.
+    - Continue practicing React. Get more confident with your skills.
+        - As you build the static main menu and go further into development, you may run into skill issues that should be remedied via the React documentaion and tutorials (YouTube, Stack Overflow, etc.)
+    -  Try completing a tutorial for Next.js.
+
+## HX/UX Testing Round 1
+
+Part 1
+
+- Starting Deliverables 
+    -   Design Mock-Up of Current Iteration of App Prototype
+        - I want to be confident with which design I should stick with. Therefore, out of a couple design templates, I'll ask the user which one they like the most.
+    -   High-Fidelity Digital Prototype
+        - Before testing the entire UI, have users test out current prototype components/iterations.
+
+- UX Testing Type with Stakeholders
+    - In terms of design critique, reach out to faculty members and fellow CTD students and get their feedback.
+    - With other college students as the stakeholders, perform a usability interview where they will test out the following (via High-Fidelity Figma Prototype):
+        - Main Menu
+            - Do they understand how the main menu works? Will it require an introductory tutorial?
+        - Break Your Limits
+            - Have users explain what they know as they go through this feature.
+                - Do they understand each UI component? Do they understand how this feature is supposed to flow?
+                - Document whenever a user is lost, and redirect/assist them.
+        - Strengthen Your Knowledge
+            -   Do users understand this app's feature? Have them explain what they know.
+            - Do they feel that the resources may be of benefit to them in any way?
+        - Track Your Journey
+            - Do users understand this app's feature? Have them explain what they know.
+        - Overall App flow
+            - Can users navigate through the apps with minimal assistance? Note any edge cases that show up.
+            - Make sure there are no points where the user gets stuck in the app.
+            
+
 
 
 
