@@ -60,6 +60,31 @@ These are the goals that should be completed by next week:
 - Keep following the React tutorial, and if possible, add the learned techniques to the overall project. Think of how this can be added to the project functionality.
 - Start learning how to add databases with Next.js.
 
+## Week 1 Progress
+
+My goals for last week were the following:
+- Using feedback from the ATLS 4630 prototype of Limit Break, create a Figma mockup that shows the UI and functionality of the circled part of the diagram from the picture above. 
+    -   Be sure to let users test out the process of doing the process above. Do they understand what the app is telling them to do? What are the difficulties that users will run into? Use feedback for re-iterations.
+    -   At the very minimum, this can be done as a paper prototype.
+- Keep following the React tutorial, and if possible, add the learned techniques to the overall project. Think of how this can be added to the project functionality.
+- Start learning how to add databases with Next.js.
+
+I was able to accomplish the following:
+- I came up with a new design for my app. I felt critical of my old design, looked at inspirations of other mobile app UIs, and implemented the design on Figma. So far, it is still a work-in-progress because my time management was finicky last week.
+    -   No user-testing was done last week. Fortunately this week I have more opportunities (fencing meetings start, a lot of users for testing) to do that. The design just needs to be completed by the end of the 21st. Although I was able to reflect on the previous design and re-iterate.
+- I followed a new react tutorial and learned the following new topics
+    - Proper react directory structure (have a folder for components, pages, json files, assets, etc.)
+    - Knowing the proper use of useEffect (if you want to re-render a component a fixed number of times)
+    - Implementing APIs to React projects
+    - Loading components when using API
+    - The proper usage of dynamic rendering
+    - I will plan to start implementing these concepts to my project this week.
+- I learned that a Next.js intergration to my project will need an adjustment on how I use the React network routing tool.
+
+I integrated feedback by doing a re-iteration of the app's design, after not feeling confident with my previous one. 
+
+I learned that it will take more time to complete a full Figma prototype, so a lot of my time until the 28th will need to be focused on that.
+
 
 
 
