@@ -121,20 +121,20 @@ Part 1
             - Make sure there are no points where the user gets stuck in the app.
 
 Part 2
-    - I showed my current UI design to a fellow CTD student, which they felt they had no extra feedback to give, other than pointing out that the current UI looks a lot more better than the previous one.
-    - A user (college student; original demographic before audience changed) tested out the user experience. This involved me directing them through the app and seeing how they navigate the app with minimal assistance. As they went through the experience, I took notes of the following:
-        - User was able to select the correct menu option for facing fears.
-        - On the fear/step creation page, the user sticks with one step, and presses finish. 
-        - User doesn't now what what to do when on the main fear facing page (Break Your Limits), and then proceeds to click on the tutorial button.
-        - The tutorial explanation allowed the user to be guided through "Break Your Limits".
-        - When on the confidence rating / prompt questions part of "Break Your Limits", the user didn't know how to go back to the page's main feature. They proceeded to press the hamburger menu to try and go back, and thought that "Track Your Journey" was the correct option to go back. 
+- I showed my current UI design to a fellow CTD student, which they felt they had no extra feedback to give, other than pointing out that the current UI looks a lot more better than the previous one.
+- A user (college student; original demographic before audience changed) tested out the user experience. This involved me directing them through the app and seeing how they navigate the app with minimal assistance. As they went through the experience, I took notes of the following:
+    - User was able to select the correct menu option for facing fears.
+    - On the fear/step creation page, the user sticks with one step, and presses finish. 
+    - User doesn't now what what to do when on the main fear facing page (Break Your Limits), and then proceeds to click on the tutorial button.
+    - The tutorial explanation allowed the user to be guided through "Break Your Limits".
+    - When on the confidence rating / prompt questions part of "Break Your Limits", the user didn't know how to go back to the page's main feature. They proceeded to press the hamburger menu to try and go back, and thought that "Track Your Journey" was the correct option to go back. 
         - User says they'll log off from the app, and hypothetically work on the steps he wrote down.    
-    - Overall, the app design seems to be  aethsetically pleasing, and is a step up from the previous iteration. In terms of the app experience, the terminology of the app's features seem to be confusing. There was also some confusion when trying to go back to a previous page. For the app concept, it looks like the amount of steps a user will add for a fear will vary.
-    - In terms of lessons learned, I learned that the 2nd iteration of the app's design was detrimental to my project's success. I also learned about the importance of back buttons, and how I shouldn't rely on the user knowing how to back-swipe or not (I am working on a web app after all, it's not only going to be on a mobile interface). Some bugs within the experience were demonstrated during the test, and should be fixed for efficient app flow.
-        - The following feedback was applied:
-            - Added back button to fear/step page
-            - Add feature where user can add confidence rating to each fear/step during the fear creation page.
-            - Change "track your journey" button to something more obvious. Along with other terminologies of app features. 
+- Overall, the app design seems to be  aethsetically pleasing, and is a step up from the previous iteration. In terms of the app experience, the terminology of the app's features seem to be confusing. There was also some confusion when trying to go back to a previous page. For the app concept, it looks like the amount of steps a user will add for a fear will vary.
+- In terms of lessons learned, I learned that the 2nd iteration of the app's design was detrimental to my project's success. I also learned about the importance of back buttons, and how I shouldn't rely on the user knowing how to back-swipe or not (I am working on a web app after all, it's not only going to be on a mobile interface). Some bugs within the experience were demonstrated during the test, and should be fixed for efficient app flow.
+    - The following feedback was applied:
+        - Added back button to fear/step page
+        - Add feature where user can add confidence rating to each fear/step during the fear creation page.
+        - Change "track your journey" button to something more obvious. Along with other terminologies of app features. 
             
             
 ## Week 2 Progress
