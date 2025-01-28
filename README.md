@@ -153,6 +153,18 @@ Part 2
     - Change "track your journey" button to something more obvious. Along with other terminologies of app features. 
 - Nothing was unexpected, although I'm realizing that my time management could use some work.
 
+## Week 3 Goals
+- These are the goals that should be completed by next week:
+    - Complete the entire UI in Figma. As you complete certain parts, perform user testing on those things. Avoid trying to be a perfectionist on this. When in doubt, just go straight into testing.
+        -   You got away with skimping on that this week, but next week will be THE deadline because you will have to present this.
+        - Of course, do more user-testing. You can never do too much of it.
+            - Some users may run into problems that others wouldn't have.  
+    - Continue practicing React. Get more confident with your skills.
+        - As you build the static main menu and go further into development, you may run into skill issues that should be remedied via the React documentaion and tutorials (YouTube, Stack Overflow, etc.)
+        - Again, you got away with skimping on this, but you need to show that you are confident with this for the presentation next week.
+    - DO a Next.js tutorial.
+
+
 
 
 
