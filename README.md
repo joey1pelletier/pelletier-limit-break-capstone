@@ -120,6 +120,21 @@ Part 1
             - Can users navigate through the apps with minimal assistance? Note any edge cases that show up.
             - Make sure there are no points where the user gets stuck in the app.
             
+## Week 2 Progress
+- These were the goals to be completed by this week:
+    - Complete the entire UI in Figma. As you complete certain parts, perform user testing on those things. Avoid trying to be a perfectionist on this. When in doubt, just go straight into testing.
+    - Continue practicing React. Get more confident with your skills.
+        - As you build the static main menu and go further into development, you may run into skill issues that should be remedied via the React documentaion and tutorials (YouTube, Stack Overflow, etc.)
+    -  Try completing a tutorial for Next.js.
+- I was able to accomplish the following:
+    - Although I still have a tiny bit of things to finish on the mock-up, I was able to perform some user-testing on the app experience and design. 
+    - I did not practice on React nor Next.js, as I felt that the Figma prototype was a priority to work on first.
+    - I had things outside of school to take care of, so I should plan on managing my time more wisely.
+- The following feedback was integrated:
+    - Added back button to fear/step page
+    - Add feature where user can add confidence rating to each fear/step during the fear creation page.
+    - Change "track your journey" button to something more obvious.
+- Nothing was unexpected, although I'm realizing that my time management could use some work.
 
 
 
