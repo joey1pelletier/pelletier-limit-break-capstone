@@ -182,6 +182,16 @@ Part 2
     - Essentially, the project is now at the 30% Project Complete Mark as described in the Project Milestones section.
 - So far, nothing was unexpected. I feel like I did a better job at time management this time.
 
+## Week 4 Goals
+
+- These are the goals that should be completed by next week:
+    -  Move onto React Development
+        - Figure out how to transition from page to page
+        - See how you can retain user input when moving throughout the app
+        - All in all, progress should be made through the development of the "Conquer your Fears" feature of the app.
+    - Think about reaching out to Peter (advisor) on if I should stick with React/Firebase or Next.js for attaching a database 
+    - Do more user-testing of UI and continue to make adjustments
+
 
 
 
