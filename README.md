@@ -178,7 +178,7 @@ Part 2
 - I was able to accomplish the following:
     - The Figma UI prototype is fully completed and ready to use as reference for development in React.
         - (filled with details on 2nd user testing)
-    - When it came to React, I was able to make progress on a static main menu screen, and I will continue to implement app components and pages. I used a previous React folder as a starting point and switched from the old design to the new one.
+    - When it came to React, I was able to make progress on a static main menu screen, and I will continue to implement app components and pages. I used a previous React folder as a starting point and switched from the old design to the new one. It's not in this repo yet, so this is the current link: pelletier-capstone-practice.vercel.app
     - Essentially, the project is now at the 30% Project Complete Mark as described in the Project Milestones section.
 - So far, nothing was unexpected. I feel like I did a better job at time management this time.
 
