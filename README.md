@@ -164,6 +164,28 @@ Part 2
         - Again, you got away with skimping on this, but you need to show that you are confident with this for the presentation next week.
     - DO a Next.js tutorial.
 
+## Week 3 Progress
+- These are the goals that were to be completed by last week:
+    - Complete the entire UI in Figma. As you complete certain parts, perform user testing on those things. Avoid trying to be a perfectionist on this. When in doubt, just go straight into testing.
+        -   You got away with skimping on that this week, but next week will be THE deadline because you will have to present this.
+        - Of course, do more user-testing. You can never do too much of it.
+            - Some users may run into problems that others wouldn't have.  
+    - Continue practicing React. Get more confident with your skills.
+        - As you build the static main menu and go further into development, you may run into skill issues that should be remedied via the React documentaion and tutorials (YouTube, Stack Overflow, etc.)
+        - Again, you got away with skimping on this, but you need to show that you are confident with this for the presentation next week.
+    - DO a Next.js tutorial.
+
+- I was able to accomplish the following:
+    - The Figma UI prototype is fully completed and ready to use as reference for development in React.
+        - (filled with details on 2nd user testing)
+    - When it came to React, I was able to make progress on a static main menu screen, and I will continue to implement app components and pages. I used a previous React folder as a starting point and switched from the old design to the new one.
+    - Essentially, the project is now at the 30% Project Complete Mark as described in the Project Milestones section.
+- So far, nothing was unexpected. I feel like I did a better job at time management this time.
+
+
+
+
+
 
 
 
