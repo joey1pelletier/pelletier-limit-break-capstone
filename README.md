@@ -192,6 +192,22 @@ Part 2
     - Think about reaching out to Peter (advisor) on if I should stick with React/Firebase or Next.js for attaching a database 
     - Do more user-testing of UI and continue to make adjustments
 
+## Week 4 Progress
+-  These were the goals that should've be completed by this week:
+    -  Move onto React Development
+        - Figure out how to transition from page to page
+        - See how you can retain user input when moving throughout the app
+        - All in all, progress should be made through the development of the "Conquer your Fears" feature of the app.
+    - Think about reaching out to Peter (advisor) on if I should stick with React/Firebase or Next.js for attaching a database 
+    - Do more user-testing of UI and continue to make adjustments
+    - I was able to accomplish the following
+        - The React page router was successfully implemented, and I'm able to connect the main menu page to the 'conquer my fears' page.
+        - Right now, I am able to retrieve user input for fears/steps and the confidence rating via console logs. Next week, I will see about either setting up Firebase or stick with a local storage API as a starting point (then transition to Firebase).
+        - I haven't set up a meeting with my adviser, but I could try sending him an email about my progress.
+        - I planned on doing user-testing, but I wanted to really get started with development. 
+    - I integrated the confidence rating feedback by making sure there's less choices (3 instead of 10). I was able to develop this with stylized radio buttons. I'll figure out a way to structure the onboarding process (user enters starting info, meds, etc.).
+    - Although React is something I'm still new with, I'm proud of my progress so far, which I was honestly not expecting. I thought I'd still suck at it, so that's a relief.
+
 
 
 
