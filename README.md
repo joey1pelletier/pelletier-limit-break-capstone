@@ -208,6 +208,13 @@ Part 2
     - I integrated the confidence rating feedback by making sure there's less choices (3 instead of 10). I was able to develop this with stylized radio buttons. I'll figure out a way to structure the onboarding process (user enters starting info, meds, etc.).
     - Although React is something I'm still new with, I'm proud of my progress so far, which I was honestly not expecting. I thought I'd still suck at it, so that's a relief.
 
+## Week 5 Goals
+
+- These are the goals that should be completed by next week:
+    - Figure out how you will structure and store user input.
+    - Before meeting with mentor, do some research on how to set up Firebase with React.
+    - Make sure you get to a point where you implement stylized components from Firebase.
+
 
 
 
