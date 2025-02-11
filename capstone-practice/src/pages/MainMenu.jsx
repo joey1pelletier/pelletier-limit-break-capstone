@@ -1,0 +1,38 @@
+import { useState } from 'react'
+import '../App.css'
+import ConquerFear from '../ConquerFear'
+import ExploreResources from '../ExploreResources'
+import FearsConquered from '../FearsConquered'
+import { Link } from "react-router-dom"
+
+function MainMenu() {
+    return (
+        <>
+      <h1>LIMIT <span className="red-break">BREAK</span></h1>
+      <div className="main-menu">
+        <p className="motiv-text">FACE THE DAY WITH COURAGE AND PRIDE.</p>
+        <div className="main-buttons">
+            <Link to="/conquer">
+                <div className="conquer-button">
+                    <ConquerFear />
+                </div>
+            </Link>
+          
+
+          <div className="explore-button">
+            <ExploreResources />
+          </div>
+
+          <div className="conquered-button">
+            <FearsConquered />
+          </div>
+          
+        </div>
+      </div>
+      
+      
+    </>
+    )
+}
+
+export default MainMenu
