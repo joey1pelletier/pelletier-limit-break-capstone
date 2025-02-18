@@ -215,6 +215,52 @@ Part 2
     - Before meeting with mentor, do some research on how to set up Firebase with React.
     - Make sure you get to a point where you implement stylized components from Firebase.
 
+## Mentor Review
+
+- Prior to the meeting with my mentor (Peter Rosenthal), I followed a React + Firebase tutorial that taught me how to do the following concepts:
+    - Firebase setup and onboarding with React
+    - Setting up Google Authentication
+    - Creating a collection for objects to be stored into
+    - Adding data to stylized components
+
+- During our meeting, we came to the following conclusions:
+    - There's no need to set up Next.js. Everything for this project can be done with just React and Firebase.
+    - Like the tutorial, it should be fine to setup a Google Authentication for this project.
+    - Make sure every part of user input is stored and secured into the database
+    - It'll be easier to store user input as strings.
+    - Because the fear and step setup is a bit complicated, you'll need to have separate objects for fears/steps.
+    - I will need to find a way to structure the fears/steps, in a way that they all relate to each other, in Firebase. Will require some planning prior to coding.
+    - As far as progress goes, Peter told me that I am on good track for completing my project on-time. All I have to do is think about the structure of the database, and figure out how to develop the app based on that. Otherwise, that would be the only complicated part of the project.
+
+## Week 5 Progress
+
+- These were the goals that should''ve been completed by this week:
+    - Figure out how you will structure and store user input.
+    - Before meeting with mentor, do some research on how to set up Firebase with React.
+    - Make sure you get to a point where you implement stylized components from Firebase.
+
+- I was able to accomplish the following
+    - For structuring and storing user input, Peter gave me good advice on how to do that for my project. I would just need to have fears/steps as separate objects and figure out a way to make them relate to each other.
+    - I did a React + Firebase tutorial that showed me how to setup Firebase with React, create/store collections of data, and setup Google Authentication.
+    - In terms of stylized components from Firebase, this would be as simple as having stylized divs with retrieved data information inside of them.
+
+- Although last week and this week halted my time on capstone work due to unforeseen life events, Peter says I'm still on good track to get this project done on time, and I feel better about doing the Firebase setup for my project.
+
+## Week 6 Goals
+
+- These are the goals that should be completed by next week:
+    - Figure out how you will structure and store user input, knowing that you will need separate fear/step objects. 
+    - Using my learnings from the React + Firebase tutorial, implement the Firebase setup to my project and make sure that user input is effectively stored into the database.
+    - It would be best to have the full 'Conquer Your Fears' feature to be completed by this time. You already have guidance and knowledge to get to that point.
+        - Be sure to contact Peter and/or peers if you have any troubles with this.
+
+
+
+
+ 
+
+
+
 
 
 
