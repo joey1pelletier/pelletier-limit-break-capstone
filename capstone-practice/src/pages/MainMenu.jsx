@@ -4,9 +4,16 @@ import ConquerFear from '../ConquerFear'
 import ExploreResources from '../ExploreResources'
 import FearsConquered from '../FearsConquered'
 import { Link } from "react-router-dom"
+import Login from './Login'
+//import { auth } from './firebase-config'
+function MainMenu({isAuth, setIsAuth}) {
 
-function MainMenu() {
-    return (
+   
+
+    if (!isAuth) {
+      return <Login setIsAuth={setIsAuth}/>;
+    } 
+      return (
         <>
       <h1>LIMIT <span className="red-break">BREAK</span></h1>
       <div className="main-menu">
@@ -33,6 +40,8 @@ function MainMenu() {
       
     </>
     )
+    
+    
 }
 
 export default MainMenu
